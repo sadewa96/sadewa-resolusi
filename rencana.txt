@@ -1,6 +1,9 @@
 rencana belajar saya
 -belajar javascript
+Dom
 -belajar css
+bootsrap
 -belajar html
+html5
 -belajar git
 -belajar github
