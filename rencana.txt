@@ -3,3 +3,4 @@ rencana belajar saya
 -belajar css
 -belajar html
 -belajar git
+-belajar github
