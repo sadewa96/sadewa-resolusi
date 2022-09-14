@@ -1,3 +1,5 @@
 Lukman resolusi
 -konsisten belajar tentang progammer
 -belajar javascript
+-belajar css mendalam
+-belajar html
