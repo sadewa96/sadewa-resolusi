@@ -1,0 +1,5 @@
+rencana belajar saya
+-belajar javascript
+-belajar css
+-belajar html
+-belajar git
